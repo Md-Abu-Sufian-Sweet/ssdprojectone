@@ -1,0 +1,41 @@
+h1{
+	color:black;
+	text-align: center;
+	font-size: 45px;
+	text-shadow: 4px 1px 9px grey;
+}
+p{
+	
+font-size: 20px;
+	
+line-height: 1.5;
+	
+box-shadow: -4px 3px 9px grey;
+text-align: center;
+}
+span{
+	color: #060693;
+
+}
+.color{
+	color:#d51010;
+}
+
+body{
+	
+margin: 0;
+}
+
+div{
+	
+width: 800px;
+	
+margin-left: auto;
+	
+margin-right: auto;
+box-shadow: -5px -1px 9px gray;
+}
+img{
+	
+max-width: 100%;
+}
